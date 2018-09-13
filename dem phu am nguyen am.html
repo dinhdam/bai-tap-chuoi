@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+function checkString(str){
+let vowel_list = 'aeiouAEIOU';
+let consonant_list = 'bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ'
+let vowel_count = 0;
+let consonant_count = 0;
+
+for(i in str){
+if(vowel_list.indexOf(str[i]) !== -1){
+vowel_count += 1;
+}
+if(consonant_list.indexOf(str[i]) !== -1){
+consonant_count += 1;
+}
+}
+console.log("Có tất cả " + vowel_count + " nguyên âm");
+console.log("Có tất cả " + consonant_count + " phụ âm");
+}
+
+checkString('Hello my name is cherry');
+</script>
+</body>
+</body>
+</html>

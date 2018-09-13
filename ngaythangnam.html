@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+function checkdatemonthyear(str){
+    let regexd =/^[0-9]{2}\/[0-9]{2}\/[0-9]{4}$/;
+    if (regexd.test(str)){
+        console.log("date month year is ok");
+    }else{
+        console.log(" date month year is out of")
+    }
+}
+checkdatemonthyear('20/08/2016');
+checkdatemonthyear('2016/20/08');
+
+</script>
+</body>
+</html>
