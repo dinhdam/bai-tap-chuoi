@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function checkEmailValidation(str){
+        let regexp = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        let regexp1 = /^[A-Za-z0-9]+[A-Za-z0-9]*@[A-Za-z0-9]+(\.[A-Za-z0-9]+)$/;
+        if(regexp1.test(str)){
+            console.log("This email is ok");
+        }else{
+            console.log("This email is out of validation");
+        }
+    }
+
+    checkEmailValidation('abc@hotmail.com');
+    checkEmailValidation('@gmail.com');
+    checkEmailValidation('a@gmail.com');
+    checkEmailValidation('ab@gmail.');
+</script>
+</body>
+</html>
