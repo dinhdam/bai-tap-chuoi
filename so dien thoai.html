@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function checknumberofphoneValidate(str) {
+        let regexd = /\(?([0-9]{3})\)?([ .-]?)([0-9]{3})\2([0-9]{4})/;
+        if (regexd.test(str)) {
+            console.log("this number of phone is ok");
+        }
+        else{
+            console.log(" this number out of validate ");
+        }
+    }
+    checknumberofphoneValidate('(84)-(0978489648)');
+    checknumberofphoneValidate('(a8)-(22222222)');
+</script>
+</body>
+</html>
