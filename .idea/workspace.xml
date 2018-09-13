@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9fb036b-b590-469e-8626-953298dd81ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dem phu am nguyen am.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demso.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ngaythangnam.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/so bao mat.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitapdieukien/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitapdieukien/baitap1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../baitapdieukien/baitap2.html" afterDir="false" />
@@ -57,6 +53,7 @@
       <change beforePath="$PROJECT_DIR$/../HTML/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML/HTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../array/array.html" beforeDir="false" afterPath="$PROJECT_DIR$/../array/array.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demso.html" beforeDir="false" afterPath="$PROJECT_DIR$/demso.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../console.log/console.log.html" beforeDir="false" afterPath="$PROJECT_DIR$/../console.log/console.log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../console_log/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../console_log/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../console_log/console.html" beforeDir="false" afterPath="$PROJECT_DIR$/../console_log/console.html" afterDir="false" />
@@ -111,12 +108,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2008" />
+          <entry key="html" value="2065" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2008" />
+          <entry key="HTML" value="2065" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -150,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demso.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="152">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -168,7 +167,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/so bao mat.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -199,9 +198,9 @@
         <option value="$PROJECT_DIR$/ten cua lop hoc.html" />
         <option value="$PROJECT_DIR$/so dien thoai.html" />
         <option value="$PROJECT_DIR$/ngaythangnam.html" />
-        <option value="$PROJECT_DIR$/demso.html" />
         <option value="$PROJECT_DIR$/dem phu am nguyen am.html" />
         <option value="$PROJECT_DIR$/so bao mat.html" />
+        <option value="$PROJECT_DIR$/demso.html" />
       </list>
     </option>
   </component>
@@ -255,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536802194567</updated>
-      <workItem from="1536802196468" duration="16649000" />
+      <workItem from="1536802196468" duration="17726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16649000" />
+    <option name="totallyTimeSpent" value="17726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -327,17 +326,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demso.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ten cua lop hoc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/so bao mat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -355,10 +354,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/so bao mat.html">
+    <entry file="file://$PROJECT_DIR$/demso.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
